@@ -1,0 +1,14 @@
+{
+  "name": "ninja-blog-back",
+  "version": "1.0.0",
+  "description": "Blog app made with the MERN stack - Inspired code from The Net Ninja - React Tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MERN"
+  ],
+  "author": "Richard Otis, Jr.",
+  "license": "ISC"
+}
